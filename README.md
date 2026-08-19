@@ -41,7 +41,7 @@ SyncWork is a web-based Employee Management System built using Java, Spring Boot
 
 ### 🏠 Dashboard
 The dashboard provides an overview of the SyncWork Employee Management System and provides quick access to employee management operations.
-![Dashboard](<img width="960" height="437" alt="add-employee png" src="https://github.com/user-attachments/assets/a30c5662-eb8d-41f8-8d74-b57a600b74d5" />)
+![Dashboard]<img width="960" height="437" alt="add-employee png" src="https://github.com/user-attachments/assets/a30c5662-eb8d-41f8-8d74-b57a600b74d5" />
 
 ### ➕ Add Employee
 Allows users to add a new employee with the following information: Employee Name, Department, Salary, Experience, and Employee Status.
