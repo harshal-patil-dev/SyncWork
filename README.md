@@ -41,27 +41,27 @@ SyncWork is a web-based Employee Management System built using Java, Spring Boot
 
 ### 🏠 Dashboard
 The dashboard provides an overview of the SyncWork Employee Management System and provides quick access to employee management operations.
-![Dashboard]<img width="960" height="437" alt="add-employee png" src="https://github.com/user-attachments/assets/a30c5662-eb8d-41f8-8d74-b57a600b74d5" />
+<img width="958" height="437" alt="dashboard png" src="https://github.com/user-attachments/assets/68c787f1-fc3c-432d-92d3-5e7b81d09fe1" />
 
 ### ➕ Add Employee
 Allows users to add a new employee with the following information: Employee Name, Department, Salary, Experience, and Employee Status.
-![Add Employee](screenshots/add-employee.png)
+<img width="960" height="437" alt="add-employee png" src="https://github.com/user-attachments/assets/434e04ba-d57e-4b90-a124-614c18ee91a1" />
 
 ### 👥 View Employees
 Displays all employees stored in the database. The employee table includes ID, Name, Department, Salary, Experience, Status, Update, and Delete options.
-![Employees](screenshots/employees.png)
+<img width="960" height="438" alt="employees png" src="https://github.com/user-attachments/assets/5534619b-4cdb-4b3e-88b1-038a2e9df8f4" />
 
 ### 🔎 Search Employee
 Employees can be filtered by department. Available departments: IT, HR, Testing, Marketing, and Sales.
-![Search Employee](screenshots/search-employee.png)
+<img width="959" height="437" alt="search-employee png" src="https://github.com/user-attachments/assets/e99ff004-c537-490a-bb08-bfa248f59825" />
 
 ### ✏️ Update Employee
 Allows users to update existing employee information.
-![Update Employee](screenshots/update-employee.png)
+<img width="960" height="437" alt="update-employee png" src="https://github.com/user-attachments/assets/3981e0ca-0003-4459-b803-8f1efda60239" />
 
 ### 🗑️ Delete Employee
 The delete operation first finds the employee by ID and displays the employee information before deletion.
-![Delete Employee](screenshots/delete-employee.png)
+<img width="958" height="437" alt="delete-employee png" src="https://github.com/user-attachments/assets/6cda11a7-273f-4fd5-8ff7-7b9a3e579a9e" />
 
 ---
 
