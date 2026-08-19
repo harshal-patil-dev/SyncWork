@@ -131,7 +131,7 @@ src
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-github-repository-url>
+git clone https://github.com/harshal-patil-dev/SyncWork.git
 ```
 
 ### 2. Open the Project
@@ -176,4 +176,4 @@ http://localhost:8080/employee-managment-system/home
 **Harshal Patil**  
 *Java & Full Stack Development Learner*  
 
-⭐ If you find this project useful, consider giving the repository a star on GitHub.# SyncWork
+⭐ If you find this project useful, consider giving the repository a star on GitHub. #SyncWork
