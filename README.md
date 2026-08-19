@@ -145,11 +145,16 @@ Open the project in Eclipse IDE as a Maven project.
 ### 3. Configure MySQL
 Create a MySQL database and update the database configuration in `application.properties`:
 ```properties
-spring.datasource.url=jdbc:mysql://localhost:3306/syncwork_db
+spring.datasource.url=jdbc:mysql://localhost:3306/employee_database?createDatabaseIfNotExist=true&allowPublicKeyRetrieval=true&useSSL=false
 spring.datasource.username=root
 spring.datasource.password=your_password
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+spring.mvc.view.prefix=/WEB-INF/views/
+spring.mvc.view.suffix=.jsp
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
+server.port=8080
+
 ```
 
 ### 4. Run the Application
