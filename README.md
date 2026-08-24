@@ -99,13 +99,13 @@ Users can log out of the application, which invalidates the current session.
 
 Allows new users to create an account.
 
-![Register User](screenshots/register-user.png)
+<img width="947" height="436" alt="image" src="https://github.com/user-attachments/assets/17e5dcf3-5236-49ff-a17b-dcd3159ef83f" />
 
 ### 🔑 User Login
 
 Allows registered users to securely log in to the SyncWork system.
 
-![Login User](screenshots/login-user.png)
+<img width="947" height="435" alt="image" src="https://github.com/user-attachments/assets/38b1554c-1b84-41ea-88a8-c1a56270f115" />
 
 ### 🏠 Dashboard
 
